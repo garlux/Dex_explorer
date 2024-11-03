@@ -165,6 +165,11 @@ local NewGuiPart163 = Instance.new("BindableEvent")
 -- Properties
 
 NewGuiPart1.Name = "Dexerlolol"
+NewGuiPart1.Parent = game.CoreGui
+NewGuiPart1.Archivable = true
+NewGuiPart1.AutoLocalize = true
+NewGuiPart1.DisplayOrder = math.huge
+NewGuiPart1.IgnoreGuiInset = false
 NewGuiPart1.ResetOnSpawn = false
 
 NewGuiPart2.Name = "PropertiesFrame"
