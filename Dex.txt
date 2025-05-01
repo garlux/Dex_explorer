@@ -164,7 +164,7 @@ local NewGuiPart162 = Instance.new("BindableFunction")
 local NewGuiPart163 = Instance.new("BindableEvent")
 -- Properties
 
-NewGuiPart1.Name = "Dexerlolol"
+NewGuiPart1.Name = "Dex"
 NewGuiPart1.Parent = game.CoreGui
 NewGuiPart1.Archivable = true
 NewGuiPart1.AutoLocalize = true
