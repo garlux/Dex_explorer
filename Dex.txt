@@ -3273,7 +3273,7 @@ end
 ----------------------------------------------------------------
 ---- Explorer panel
 
-local explorerPanel = D_E_X.ExplorerPanellolol
+local explorerPanel = D_E_X.ExplorerPanel
 Create(explorerPanel,{
 	BackgroundColor3 = GuiColor.Field;
 	BorderColor3 = GuiColor.Border;
@@ -7708,7 +7708,7 @@ bindGetAwait.OnInvoke = function()
 end
 end)
 spawn(function()
-	local top = D_E_X.ScriptEditorlolol
+	local top = D_E_X.ScriptEditor
 
 local editorGrid = top:WaitForChild("EditorGrid")
 
