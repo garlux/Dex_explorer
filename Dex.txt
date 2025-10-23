@@ -172,7 +172,7 @@ NewGuiPart1.DisplayOrder = math.huge
 NewGuiPart1.IgnoreGuiInset = true
 NewGuiPart1.ResetOnSpawn = false
 
-NewGuiPart2.Name = "PropertiesFramelolol"
+NewGuiPart2.Name = "PropertiesFrame"
 NewGuiPart2.Parent = NewGuiPart1
 NewGuiPart2.Active = true
 NewGuiPart2.BackgroundColor3 = Color3.new(1, 1, 1)
@@ -181,19 +181,19 @@ NewGuiPart2.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart2.Position = UDim2.new(1, 0, 0.5, 36)
 NewGuiPart2.Size = UDim2.new(0, 300, 0.5, -36)
 
-NewGuiPart158.Name = "GetApilolol"
+NewGuiPart158.Name = "GetApi"
 NewGuiPart158.Parent = NewGuiPart2
 NewGuiPart158.Archivable = true
 
-NewGuiPart159.Name = "GetAwaitinglolol"
+NewGuiPart159.Name = "GetAwaiting"
 NewGuiPart159.Parent = NewGuiPart2
 NewGuiPart159.Archivable = true
 
-NewGuiPart160.Name = "SetAwaitinglolol"
+NewGuiPart160.Name = "SetAwaiting"
 NewGuiPart160.Parent = NewGuiPart2
 NewGuiPart160.Archivable = true
 
-NewGuiPart3.Name = "Headerlolol"
+NewGuiPart3.Name = "Header"
 NewGuiPart3.Parent = NewGuiPart2
 NewGuiPart3.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart3.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -220,7 +220,7 @@ NewGuiPart5.Text = "Search Properties"
 --NewGuiPart5.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart5.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart6.Name = "ExplorerPanellolol"
+NewGuiPart6.Name = "ExplorerPanel"
 NewGuiPart6.Parent = NewGuiPart1
 NewGuiPart6.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart6.BackgroundTransparency = 0.10000000149012
@@ -228,27 +228,27 @@ NewGuiPart6.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart6.Position = UDim2.new(1, 0, 0, 0)
 NewGuiPart6.Size = UDim2.new(0, 300, 0.5, 0)
 
-NewGuiPart153.Name = "GetOptionlolol"
+NewGuiPart153.Name = "GetOption"
 NewGuiPart153.Parent = NewGuiPart6
 NewGuiPart153.Archivable = true
 
-NewGuiPart154.Name = "TotallyNotGetSelectionlolol"
+NewGuiPart154.Name = "TotallyNotGetSelection"
 NewGuiPart154.Parent = NewGuiPart6
 NewGuiPart154.Archivable = true
 
-NewGuiPart155.Name = "SetOptionlolol"
+NewGuiPart155.Name = "SetOption"
 NewGuiPart155.Parent = NewGuiPart6
 NewGuiPart155.Archivable = true
 
-NewGuiPart156.Name = "TotallyNotSetSelectionlolol"
+NewGuiPart156.Name = "TotallyNotSetSelection"
 NewGuiPart156.Parent = NewGuiPart6
 NewGuiPart156.Archivable = true
 
-NewGuiPart157.Name = "TotallyNotSelectionChangedlolol"
+NewGuiPart157.Name = "TotallyNotSelectionChanged"
 NewGuiPart157.Parent = NewGuiPart6
 NewGuiPart157.Archivable = true
 
-NewGuiPart7.Name = "SideMenulolol"
+NewGuiPart7.Name = "SideMenu"
 NewGuiPart7.Parent = NewGuiPart1
 NewGuiPart7.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart7.BackgroundTransparency = 1
@@ -259,7 +259,7 @@ NewGuiPart7.Size = UDim2.new(0, 30, 0, 180)
 NewGuiPart7.Visible = false
 NewGuiPart7.ZIndex = 2
 
-NewGuiPart8.Name = "Togglelolol"
+NewGuiPart8.Name = "Toggle"
 NewGuiPart8.Parent = NewGuiPart7
 NewGuiPart8.Active = false
 NewGuiPart8.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -273,7 +273,7 @@ NewGuiPart8.Text = ">"
 NewGuiPart8.TextTransparency = 1
 NewGuiPart8.TextWrapped = true
 
-NewGuiPart9.Name = "Titlelolol"
+NewGuiPart9.Name = "Title"
 NewGuiPart9.Parent = NewGuiPart7
 NewGuiPart9.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart9.BackgroundTransparency = 1
@@ -284,7 +284,7 @@ NewGuiPart9.FontSize = Enum.FontSize.Size14
 NewGuiPart9.Text = "DEX"
 NewGuiPart9.TextWrapped = true
 
-NewGuiPart10.Name = "Versionlolol"
+NewGuiPart10.Name = "Version"
 NewGuiPart10.Parent = NewGuiPart7
 NewGuiPart10.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart10.BackgroundTransparency = 1
@@ -296,7 +296,7 @@ NewGuiPart10.FontSize = Enum.FontSize.Size12
 NewGuiPart10.Text = "V0.1"
 NewGuiPart10.TextWrapped = true
 
-NewGuiPart11.Name = "Slantlolol"
+NewGuiPart11.Name = "Slant"
 NewGuiPart11.Parent = NewGuiPart7
 NewGuiPart11.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart11.BackgroundTransparency = 1
@@ -306,13 +306,13 @@ NewGuiPart11.Size = UDim2.new(0, 30, 0, 30)
 NewGuiPart11.Image = "rbxassetid://474172996"
 NewGuiPart11.ImageColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 
-NewGuiPart12.Name = "Mainlolol"
+NewGuiPart12.Name = "Main"
 NewGuiPart12.Parent = NewGuiPart7
 NewGuiPart12.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart12.BorderSizePixel = 0
 NewGuiPart12.Size = UDim2.new(0, 30, 0, 30)
 
-NewGuiPart13.Name = "SlideOutlolol"
+NewGuiPart13.Name = "SlideOut"
 NewGuiPart13.Parent = NewGuiPart7
 NewGuiPart13.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart13.BackgroundTransparency = 1
@@ -321,14 +321,14 @@ NewGuiPart13.ClipsDescendants = true
 NewGuiPart13.Position = UDim2.new(0, 0, 0, 30)
 NewGuiPart13.Size = UDim2.new(0, 30, 0, 150)
 
-NewGuiPart14.Name = "SlideFramelolol"
+NewGuiPart14.Name = "SlideFrame"
 NewGuiPart14.Parent = NewGuiPart13
 NewGuiPart14.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart14.BorderSizePixel = 0
 NewGuiPart14.Position = UDim2.new(0, 0, 0, -150)
 NewGuiPart14.Size = UDim2.new(0, 30, 0, 150)
 
-NewGuiPart15.Name = "Explorerlolol"
+NewGuiPart15.Name = "Explorer"
 NewGuiPart15.Parent = NewGuiPart14
 NewGuiPart15.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart15.BackgroundTransparency = 1
@@ -341,7 +341,7 @@ NewGuiPart15.Font = Enum.Font.SourceSans
 NewGuiPart15.FontSize = Enum.FontSize.Size24
 NewGuiPart15.Text = ""
 
-NewGuiPart16.Name = "Iconlolol"
+NewGuiPart16.Name = "Icon"
 NewGuiPart16.Parent = NewGuiPart15
 NewGuiPart16.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart16.BackgroundTransparency = 1
@@ -351,7 +351,7 @@ NewGuiPart16.ZIndex = 2
 NewGuiPart16.Image = "rbxassetid://472635937"
 NewGuiPart16.ImageColor3 = Color3.new(0.27451, 0.27451, 0.27451)
 
-NewGuiPart17.Name = "SaveMaplolol"
+NewGuiPart17.Name = "SaveMap"
 NewGuiPart17.Parent = NewGuiPart14
 NewGuiPart17.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart17.BackgroundTransparency = 1
@@ -364,7 +364,7 @@ NewGuiPart17.Font = Enum.Font.SourceSans
 NewGuiPart17.FontSize = Enum.FontSize.Size24
 NewGuiPart17.Text = ""
 
-NewGuiPart18.Name = "Iconlolol"
+NewGuiPart18.Name = "Icon"
 NewGuiPart18.Parent = NewGuiPart17
 NewGuiPart18.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart18.BackgroundTransparency = 1
@@ -374,7 +374,7 @@ NewGuiPart18.ZIndex = 2
 NewGuiPart18.Image = "rbxassetid://472636337"
 NewGuiPart18.ImageColor3 = Color3.new(0.27451, 0.27451, 0.27451)
 
-NewGuiPart19.Name = "Settingslolol"
+NewGuiPart19.Name = "Settings"
 NewGuiPart19.Parent = NewGuiPart14
 NewGuiPart19.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart19.BackgroundTransparency = 1
@@ -387,7 +387,7 @@ NewGuiPart19.Font = Enum.Font.SourceSans
 NewGuiPart19.FontSize = Enum.FontSize.Size24
 NewGuiPart19.Text = ""
 
-NewGuiPart20.Name = "Iconlolol"
+NewGuiPart20.Name = "Icon"
 NewGuiPart20.Parent = NewGuiPart19
 NewGuiPart20.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart20.BackgroundTransparency = 1
@@ -397,7 +397,7 @@ NewGuiPart20.ZIndex = 2
 NewGuiPart20.Image = "rbxassetid://472635774"
 NewGuiPart20.ImageColor3 = Color3.new(0.27451, 0.27451, 0.27451)
 
-NewGuiPart21.Name = "Remoteslolol"
+NewGuiPart21.Name = "Remotes"
 NewGuiPart21.Parent = NewGuiPart14
 NewGuiPart21.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart21.BackgroundTransparency = 1
@@ -410,7 +410,7 @@ NewGuiPart21.Font = Enum.Font.SourceSans
 NewGuiPart21.FontSize = Enum.FontSize.Size24
 NewGuiPart21.Text = ""
 
-NewGuiPart22.Name = "Iconlolol"
+NewGuiPart22.Name = "Icon"
 NewGuiPart22.Parent = NewGuiPart21
 NewGuiPart22.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart22.BackgroundTransparency = 1
@@ -420,7 +420,7 @@ NewGuiPart22.ZIndex = 2
 NewGuiPart22.Image = "rbxassetid://472636187"
 NewGuiPart22.ImageColor3 = Color3.new(0.27451, 0.27451, 0.27451)
 
-NewGuiPart23.Name = "Aboutlolol"
+NewGuiPart23.Name = "About"
 NewGuiPart23.Parent = NewGuiPart14
 NewGuiPart23.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart23.BackgroundTransparency = 1
@@ -432,7 +432,7 @@ NewGuiPart23.Font = Enum.Font.SourceSans
 NewGuiPart23.FontSize = Enum.FontSize.Size24
 NewGuiPart23.Text = ""
 
-NewGuiPart24.Name = "Iconlolol"
+NewGuiPart24.Name = "Icon"
 NewGuiPart24.Parent = NewGuiPart23
 NewGuiPart24.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart24.BackgroundTransparency = 1
@@ -442,7 +442,7 @@ NewGuiPart24.ZIndex = 2
 NewGuiPart24.Image = "rbxassetid://476354004"
 NewGuiPart24.ImageColor3 = Color3.new(0.27451, 0.27451, 0.27451)
 
-NewGuiPart25.Name = "OpenScriptEditorlolol"
+NewGuiPart25.Name = "OpenScriptEditor"
 NewGuiPart25.Parent = NewGuiPart7
 NewGuiPart25.Active = false
 NewGuiPart25.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -455,7 +455,7 @@ NewGuiPart25.Font = Enum.Font.SourceSans
 NewGuiPart25.FontSize = Enum.FontSize.Size24
 NewGuiPart25.Text = ""
 
-NewGuiPart26.Name = "Iconlolol"
+NewGuiPart26.Name = "Icon"
 NewGuiPart26.Parent = NewGuiPart25
 NewGuiPart26.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart26.BackgroundTransparency = 1
@@ -466,7 +466,7 @@ NewGuiPart26.Image = "rbxassetid://475456048"
 NewGuiPart26.ImageColor3 = Color3.new(0.105882, 0.164706, 0.207843)
 NewGuiPart26.ImageTransparency = 1
 
-NewGuiPart27.Name = "Togglelolol"
+NewGuiPart27.Name = "Toggle"
 NewGuiPart27.Parent = NewGuiPart1
 NewGuiPart27.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart27.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -476,7 +476,7 @@ NewGuiPart27.Font = Enum.Font.SourceSans
 NewGuiPart27.FontSize = Enum.FontSize.Size24
 NewGuiPart27.Text = "<"
 
-NewGuiPart28.Name = "SettingsPanellolol"
+NewGuiPart28.Name = "SettingsPanel"
 NewGuiPart28.Parent = NewGuiPart1
 NewGuiPart28.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart28.BackgroundTransparency = 0.10000000149012
@@ -484,11 +484,11 @@ NewGuiPart28.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart28.Position = UDim2.new(1, 0, 0, 0)
 NewGuiPart28.Size = UDim2.new(0, 300, 1, 0)
 
-NewGuiPart162.Name = "GetSettinglolol"
+NewGuiPart162.Name = "GetSetting"
 NewGuiPart162.Parent = NewGuiPart28
 NewGuiPart162.Archivable = true
 
-NewGuiPart29.Name = "Headerlolol"
+NewGuiPart29.Name = "Header"
 NewGuiPart29.Parent = NewGuiPart28
 NewGuiPart29.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart29.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -504,7 +504,7 @@ NewGuiPart30.Text = "Settings"
 NewGuiPart30.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart30.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart31.Name = "SettingTemplatelolol"
+NewGuiPart31.Name = "SettingTemplate"
 NewGuiPart31.Parent = NewGuiPart28
 NewGuiPart31.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart31.BackgroundTransparency = 1
@@ -512,7 +512,7 @@ NewGuiPart31.Position = UDim2.new(0, 0, 0, 18)
 NewGuiPart31.Size = UDim2.new(1, 0, 0, 60)
 NewGuiPart31.Visible = false
 
-NewGuiPart32.Name = "SNamelolol"
+NewGuiPart32.Name = "SName"
 NewGuiPart32.Parent = NewGuiPart31
 NewGuiPart32.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart32.BackgroundTransparency = 1
@@ -523,7 +523,7 @@ NewGuiPart32.FontSize = Enum.FontSize.Size18
 NewGuiPart32.Text = "SettingName"
 NewGuiPart32.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart33.Name = "Statuslolol"
+NewGuiPart33.Name = "Status"
 NewGuiPart33.Parent = NewGuiPart31
 NewGuiPart33.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart33.BackgroundTransparency = 1
@@ -534,7 +534,7 @@ NewGuiPart33.FontSize = Enum.FontSize.Size18
 NewGuiPart33.Text = "Off"
 NewGuiPart33.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart34.Name = "Changelolol"
+NewGuiPart34.Name = "Change"
 NewGuiPart34.Parent = NewGuiPart31
 NewGuiPart34.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart34.BorderSizePixel = 0
@@ -544,7 +544,7 @@ NewGuiPart34.Font = Enum.Font.SourceSans
 NewGuiPart34.FontSize = Enum.FontSize.Size14
 NewGuiPart34.Text = ""
 
-NewGuiPart35.Name = "OnBarlolol"
+NewGuiPart35.Name = "OnBar"
 NewGuiPart35.Parent = NewGuiPart34
 NewGuiPart35.BackgroundColor3 = Color3.new(0, 0.576471, 0.862745)
 NewGuiPart35.BorderSizePixel = 0
@@ -553,7 +553,7 @@ NewGuiPart35.Font = Enum.Font.SourceSans
 NewGuiPart35.FontSize = Enum.FontSize.Size14
 NewGuiPart35.Text = ""
 
-NewGuiPart36.Name = "Barlolol"
+NewGuiPart36.Name = "Bar"
 NewGuiPart36.Parent = NewGuiPart34
 NewGuiPart36.BackgroundColor3 = Color3.new(0, 0, 0)
 NewGuiPart36.BorderSizePixel = 0
@@ -564,14 +564,14 @@ NewGuiPart36.Font = Enum.Font.SourceSans
 NewGuiPart36.FontSize = Enum.FontSize.Size14
 NewGuiPart36.Text = ""
 
-NewGuiPart37.Name = "SettingListlolol"
+NewGuiPart37.Name = "SettingList"
 NewGuiPart37.Parent = NewGuiPart28
 NewGuiPart37.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart37.BackgroundTransparency = 1
 NewGuiPart37.Position = UDim2.new(0, 0, 0, 17)
 NewGuiPart37.Size = UDim2.new(1, 0, 1, -17)
 
-NewGuiPart38.Name = "SaveInstancelolol"
+NewGuiPart38.Name = "SaveInstance"
 NewGuiPart38.Parent = NewGuiPart1
 NewGuiPart38.Active = true
 NewGuiPart38.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -582,7 +582,7 @@ NewGuiPart38.Size = UDim2.new(0, 350, 0, 20)
 NewGuiPart38.Visible = false
 NewGuiPart38.ZIndex = 2
 
-NewGuiPart39.Name = "Titlelolol"
+NewGuiPart39.Name = "Title"
 NewGuiPart39.Parent = NewGuiPart38
 NewGuiPart39.BackgroundTransparency = 1
 NewGuiPart39.Size = UDim2.new(1, 0, 1, 0)
@@ -593,14 +593,14 @@ NewGuiPart39.Text = "Save Instance"
 NewGuiPart39.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart39.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart40.Name = "MainWindowlolol"
+NewGuiPart40.Name = "MainWindow"
 NewGuiPart40.Parent = NewGuiPart38
 NewGuiPart40.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart40.BackgroundTransparency = 0.10000000149012
 NewGuiPart40.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart40.Size = UDim2.new(1, 0, 0, 200)
 
-NewGuiPart41.Name = "Savelolol"
+NewGuiPart41.Name = "Save"
 NewGuiPart41.Parent = NewGuiPart40
 NewGuiPart41.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart41.BackgroundTransparency = 0.5
@@ -611,7 +611,7 @@ NewGuiPart41.Font = Enum.Font.SourceSans
 NewGuiPart41.FontSize = Enum.FontSize.Size18
 NewGuiPart41.Text = "Save"
 
-NewGuiPart42.Name = "Desclolol"
+NewGuiPart42.Name = "Desc"
 NewGuiPart42.Parent = NewGuiPart40
 NewGuiPart42.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart42.BackgroundTransparency = 1
@@ -622,7 +622,7 @@ NewGuiPart42.FontSize = Enum.FontSize.Size14
 NewGuiPart42.Text = "This will save an instance to your PC. Type in the name for your instance. (.rbxmx will be added automatically.)"
 NewGuiPart42.TextWrapped = true
 
-NewGuiPart43.Name = "Cancellolol"
+NewGuiPart43.Name = "Cancel"
 NewGuiPart43.Parent = NewGuiPart40
 NewGuiPart43.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart43.BackgroundTransparency = 0.5
@@ -633,7 +633,7 @@ NewGuiPart43.Font = Enum.Font.SourceSans
 NewGuiPart43.FontSize = Enum.FontSize.Size18
 NewGuiPart43.Text = "Cancel"
 
-NewGuiPart44.Name = "FileNamelolol"
+NewGuiPart44.Name = "FileName"
 NewGuiPart44.Parent = NewGuiPart40
 NewGuiPart44.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart44.BackgroundTransparency = 0.20000000298023
@@ -644,7 +644,7 @@ NewGuiPart44.FontSize = Enum.FontSize.Size18
 NewGuiPart44.Text = ""
 NewGuiPart44.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart45.Name = "SaveObjectslolol"
+NewGuiPart45.Name = "SaveObjects"
 NewGuiPart45.Parent = NewGuiPart40
 NewGuiPart45.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart45.BackgroundTransparency = 0.60000002384186
@@ -656,7 +656,7 @@ NewGuiPart45.FontSize = Enum.FontSize.Size18
 NewGuiPart45.Text = ""
 NewGuiPart45.TextColor3 = Color3.new(1, 1, 1)
 
-NewGuiPart46.Name = "enabledlolol"
+NewGuiPart46.Name = "enabled"
 NewGuiPart46.Parent = NewGuiPart45
 NewGuiPart46.BackgroundColor3 = Color3.new(0.380392, 0.380392, 0.380392)
 NewGuiPart46.BackgroundTransparency = 0.40000000596046
@@ -667,7 +667,7 @@ NewGuiPart46.Font = Enum.Font.SourceSans
 NewGuiPart46.FontSize = Enum.FontSize.Size14
 NewGuiPart46.Text = ""
 
-NewGuiPart47.Name = "Desc2lolol"
+NewGuiPart47.Name = "Desc2"
 NewGuiPart47.Parent = NewGuiPart40
 NewGuiPart47.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart47.BackgroundTransparency = 1
@@ -678,7 +678,7 @@ NewGuiPart47.FontSize = Enum.FontSize.Size14
 NewGuiPart47.Text = "Save \"Object\" type values"
 NewGuiPart47.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart48.Name = "Confirmationlolol"
+NewGuiPart48.Name = "Confirmation"
 NewGuiPart48.Parent = NewGuiPart1
 NewGuiPart48.Active = true
 NewGuiPart48.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -689,7 +689,7 @@ NewGuiPart48.Size = UDim2.new(0, 350, 0, 20)
 NewGuiPart48.Visible = false
 NewGuiPart48.ZIndex = 3
 
-NewGuiPart49.Name = "Titlelolol"
+NewGuiPart49.Name = "Title"
 NewGuiPart49.Parent = NewGuiPart48
 NewGuiPart49.BackgroundTransparency = 1
 NewGuiPart49.Size = UDim2.new(1, 0, 1, 0)
@@ -700,7 +700,7 @@ NewGuiPart49.Text = "Confirm"
 NewGuiPart49.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart49.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart50.Name = "MainWindowlolol"
+NewGuiPart50.Name = "MainWindow"
 NewGuiPart50.Parent = NewGuiPart48
 NewGuiPart50.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart50.BackgroundTransparency = 0.10000000149012
@@ -708,7 +708,7 @@ NewGuiPart50.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart50.Size = UDim2.new(1, 0, 0, 150)
 NewGuiPart50.ZIndex = 2
 
-NewGuiPart51.Name = "Yeslolol"
+NewGuiPart51.Name = "Yes"
 NewGuiPart51.Parent = NewGuiPart50
 NewGuiPart51.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart51.BackgroundTransparency = 0.5
@@ -720,7 +720,7 @@ NewGuiPart51.Font = Enum.Font.SourceSans
 NewGuiPart51.FontSize = Enum.FontSize.Size18
 NewGuiPart51.Text = "Yes"
 
-NewGuiPart52.Name = "Desclolol"
+NewGuiPart52.Name = "Desc"
 NewGuiPart52.Parent = NewGuiPart50
 NewGuiPart52.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart52.BackgroundTransparency = 1
@@ -732,7 +732,7 @@ NewGuiPart52.FontSize = Enum.FontSize.Size14
 NewGuiPart52.Text = "The file, FILENAME, already exists. Overwrite?"
 NewGuiPart52.TextWrapped = true
 
-NewGuiPart53.Name = "Nololol"
+NewGuiPart53.Name = "No"
 NewGuiPart53.Parent = NewGuiPart50
 NewGuiPart53.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart53.BackgroundTransparency = 0.5
@@ -744,7 +744,7 @@ NewGuiPart53.Font = Enum.Font.SourceSans
 NewGuiPart53.FontSize = Enum.FontSize.Size18
 NewGuiPart53.Text = "No"
 
-NewGuiPart54.Name = "Cautionlolol"
+NewGuiPart54.Name = "Caution"
 NewGuiPart54.Parent = NewGuiPart1
 NewGuiPart54.Active = true
 NewGuiPart54.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -755,7 +755,7 @@ NewGuiPart54.Size = UDim2.new(0, 350, 0, 20)
 NewGuiPart54.Visible = false
 NewGuiPart54.ZIndex = 5
 
-NewGuiPart55.Name = "Titlelolol"
+NewGuiPart55.Name = "Title"
 NewGuiPart55.Parent = NewGuiPart54
 NewGuiPart55.BackgroundTransparency = 1
 NewGuiPart55.Size = UDim2.new(1, 0, 1, 0)
@@ -766,7 +766,7 @@ NewGuiPart55.Text = "Caution"
 NewGuiPart55.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart55.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart56.Name = "MainWindowlolol"
+NewGuiPart56.Name = "MainWindow"
 NewGuiPart56.Parent = NewGuiPart54
 NewGuiPart56.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart56.BackgroundTransparency = 0.10000000149012
@@ -774,7 +774,7 @@ NewGuiPart56.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart56.Size = UDim2.new(1, 0, 0, 150)
 NewGuiPart56.ZIndex = 4
 
-NewGuiPart57.Name = "Desclolol"
+NewGuiPart57.Name = "Desc"
 NewGuiPart57.Parent = NewGuiPart56
 NewGuiPart57.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart57.BackgroundTransparency = 1
@@ -786,7 +786,7 @@ NewGuiPart57.FontSize = Enum.FontSize.Size14
 NewGuiPart57.Text = "The file, FILENAME, already exists. Overwrite?"
 NewGuiPart57.TextWrapped = true
 
-NewGuiPart58.Name = "Oklolol"
+NewGuiPart58.Name = "Ok"
 NewGuiPart58.Parent = NewGuiPart56
 NewGuiPart58.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart58.BackgroundTransparency = 0.5
@@ -798,7 +798,7 @@ NewGuiPart58.Font = Enum.Font.SourceSans
 NewGuiPart58.FontSize = Enum.FontSize.Size18
 NewGuiPart58.Text = "Ok"
 
-NewGuiPart59.Name = "CallRemotelolol"
+NewGuiPart59.Name = "CallRemote"
 NewGuiPart59.Parent = NewGuiPart1
 NewGuiPart59.Active = true
 NewGuiPart59.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -809,7 +809,7 @@ NewGuiPart59.Size = UDim2.new(0, 350, 0, 20)
 NewGuiPart59.Visible = false
 NewGuiPart59.ZIndex = 2
 
-NewGuiPart60.Name = "Titlelolol"
+NewGuiPart60.Name = "Title"
 NewGuiPart60.Parent = NewGuiPart59
 NewGuiPart60.BackgroundTransparency = 1
 NewGuiPart60.Size = UDim2.new(1, 0, 1, 0)
@@ -820,14 +820,14 @@ NewGuiPart60.Text = "Call Remote"
 NewGuiPart60.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart60.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart61.Name = "MainWindowlolol"
+NewGuiPart61.Name = "MainWindow"
 NewGuiPart61.Parent = NewGuiPart59
 NewGuiPart61.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart61.BackgroundTransparency = 0.10000000149012
 NewGuiPart61.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart61.Size = UDim2.new(1, 0, 0, 200)
 
-NewGuiPart62.Name = "Desclolol"
+NewGuiPart62.Name = "Desc"
 NewGuiPart62.Parent = NewGuiPart61
 NewGuiPart62.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart62.BackgroundTransparency = 1
@@ -838,7 +838,7 @@ NewGuiPart62.FontSize = Enum.FontSize.Size14
 NewGuiPart62.Text = "Arguments"
 NewGuiPart62.TextWrapped = true
 
-NewGuiPart63.Name = "Argumentslolol"
+NewGuiPart63.Name = "Arguments"
 NewGuiPart63.Parent = NewGuiPart61
 NewGuiPart63.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart63.BackgroundTransparency = 1
@@ -849,7 +849,7 @@ NewGuiPart63.CanvasSize = UDim2.new(0, 0, 0, 0)
 NewGuiPart63.MidImage = "rbxasset://textures/blackBkg_square.png"
 NewGuiPart63.TopImage = "rbxasset://textures/blackBkg_square.png"
 
-NewGuiPart64.Name = "DisplayReturnedlolol"
+NewGuiPart64.Name = "DisplayReturned"
 NewGuiPart64.Parent = NewGuiPart61
 NewGuiPart64.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart64.BackgroundTransparency = 0.60000002384186
@@ -861,7 +861,7 @@ NewGuiPart64.FontSize = Enum.FontSize.Size18
 NewGuiPart64.Text = ""
 NewGuiPart64.TextColor3 = Color3.new(1, 1, 1)
 
-NewGuiPart65.Name = "enabledlolol"
+NewGuiPart65.Name = "enabled"
 NewGuiPart65.Parent = NewGuiPart64
 NewGuiPart65.BackgroundColor3 = Color3.new(0.380392, 0.380392, 0.380392)
 NewGuiPart65.BackgroundTransparency = 0.40000000596046
@@ -873,7 +873,7 @@ NewGuiPart65.Font = Enum.Font.SourceSans
 NewGuiPart65.FontSize = Enum.FontSize.Size14
 NewGuiPart65.Text = ""
 
-NewGuiPart66.Name = "Desc2lolol"
+NewGuiPart66.Name = "Desc2"
 NewGuiPart66.Parent = NewGuiPart61
 NewGuiPart66.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart66.BackgroundTransparency = 1
@@ -884,7 +884,7 @@ NewGuiPart66.FontSize = Enum.FontSize.Size14
 NewGuiPart66.Text = "Display values returned"
 NewGuiPart66.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart67.Name = "Addlolol"
+NewGuiPart67.Name = "Add"
 NewGuiPart67.Parent = NewGuiPart61
 NewGuiPart67.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart67.BackgroundTransparency = 0.5
@@ -895,7 +895,7 @@ NewGuiPart67.Font = Enum.Font.SourceSansBold
 NewGuiPart67.FontSize = Enum.FontSize.Size24
 NewGuiPart67.Text = "+"
 
-NewGuiPart68.Name = "Subtractlolol"
+NewGuiPart68.Name = "Subtract"
 NewGuiPart68.Parent = NewGuiPart61
 NewGuiPart68.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart68.BackgroundTransparency = 0.5
@@ -906,7 +906,7 @@ NewGuiPart68.Font = Enum.Font.SourceSansBold
 NewGuiPart68.FontSize = Enum.FontSize.Size24
 NewGuiPart68.Text = "-"
 
-NewGuiPart69.Name = "ArgumentTemplatelolol"
+NewGuiPart69.Name = "ArgumentTemplate"
 NewGuiPart69.Parent = NewGuiPart61
 NewGuiPart69.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart69.BackgroundTransparency = 0.5
@@ -914,7 +914,7 @@ NewGuiPart69.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart69.Size = UDim2.new(1, 0, 0, 20)
 NewGuiPart69.Visible = false
 
-NewGuiPart70.Name = "Typelolol"
+NewGuiPart70.Name = "Type"
 NewGuiPart70.Parent = NewGuiPart69
 NewGuiPart70.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart70.BackgroundTransparency = 0.89999997615814
@@ -924,7 +924,7 @@ NewGuiPart70.Font = Enum.Font.SourceSans
 NewGuiPart70.FontSize = Enum.FontSize.Size18
 NewGuiPart70.Text = "Script"
 
-NewGuiPart71.Name = "Valuelolol"
+NewGuiPart71.Name = "Value"
 NewGuiPart71.Parent = NewGuiPart69
 NewGuiPart71.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart71.BackgroundTransparency = 0.89999997615814
@@ -935,7 +935,7 @@ NewGuiPart71.FontSize = Enum.FontSize.Size14
 NewGuiPart71.Text = ""
 NewGuiPart71.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart72.Name = "Cancellolol"
+NewGuiPart72.Name = "Cancel"
 NewGuiPart72.Parent = NewGuiPart61
 NewGuiPart72.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart72.BackgroundTransparency = 0.5
@@ -945,7 +945,7 @@ NewGuiPart72.Font = Enum.Font.SourceSans
 NewGuiPart72.FontSize = Enum.FontSize.Size18
 NewGuiPart72.Text = "Cancel"
 
-NewGuiPart73.Name = "Oklolol"
+NewGuiPart73.Name = "Ok"
 NewGuiPart73.Parent = NewGuiPart61
 NewGuiPart73.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart73.BackgroundTransparency = 0.5
@@ -956,7 +956,7 @@ NewGuiPart73.Font = Enum.Font.SourceSans
 NewGuiPart73.FontSize = Enum.FontSize.Size18
 NewGuiPart73.Text = "Call"
 
-NewGuiPart74.Name = "TableCautionlolol"
+NewGuiPart74.Name = "TableCaution"
 NewGuiPart74.Parent = NewGuiPart1
 NewGuiPart74.Active = true
 NewGuiPart74.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -967,14 +967,14 @@ NewGuiPart74.Size = UDim2.new(0, 350, 0, 20)
 NewGuiPart74.Visible = false
 NewGuiPart74.ZIndex = 2
 
-NewGuiPart75.Name = "MainWindowlolol"
+NewGuiPart75.Name = "MainWindow"
 NewGuiPart75.Parent = NewGuiPart74
 NewGuiPart75.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart75.BackgroundTransparency = 0.10000000149012
 NewGuiPart75.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart75.Size = UDim2.new(1, 0, 0, 150)
 
-NewGuiPart76.Name = "Oklolol"
+NewGuiPart76.Name = "Ok"
 NewGuiPart76.Parent = NewGuiPart75
 NewGuiPart76.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart76.BackgroundTransparency = 0.5
@@ -985,7 +985,7 @@ NewGuiPart76.Font = Enum.Font.SourceSans
 NewGuiPart76.FontSize = Enum.FontSize.Size18
 NewGuiPart76.Text = "Ok"
 
-NewGuiPart77.Name = "TableResultslolol"
+NewGuiPart77.Name = "TableResults"
 NewGuiPart77.Parent = NewGuiPart75
 NewGuiPart77.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart77.BackgroundTransparency = 1
@@ -996,7 +996,7 @@ NewGuiPart77.CanvasSize = UDim2.new(0, 0, 0, 0)
 NewGuiPart77.MidImage = "rbxasset://textures/blackBkg_square.png"
 NewGuiPart77.TopImage = "rbxasset://textures/blackBkg_square.png"
 
-NewGuiPart78.Name = "TableTemplatelolol"
+NewGuiPart78.Name = "TableTemplate"
 NewGuiPart78.Parent = NewGuiPart75
 NewGuiPart78.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart78.BackgroundTransparency = 0.5
@@ -1004,7 +1004,7 @@ NewGuiPart78.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart78.Size = UDim2.new(1, 0, 0, 20)
 NewGuiPart78.Visible = false
 
-NewGuiPart79.Name = "Typelolol"
+NewGuiPart79.Name = "Type"
 NewGuiPart79.Parent = NewGuiPart78
 NewGuiPart79.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart79.BackgroundTransparency = 0.89999997615814
@@ -1013,7 +1013,7 @@ NewGuiPart79.Font = Enum.Font.SourceSans
 NewGuiPart79.FontSize = Enum.FontSize.Size18
 NewGuiPart79.Text = "Script"
 
-NewGuiPart80.Name = "Valuelolol"
+NewGuiPart80.Name = "Value"
 NewGuiPart80.Parent = NewGuiPart78
 NewGuiPart80.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart80.BackgroundTransparency = 0.89999997615814
@@ -1023,7 +1023,7 @@ NewGuiPart80.Font = Enum.Font.SourceSans
 NewGuiPart80.FontSize = Enum.FontSize.Size14
 NewGuiPart80.Text = "Script"
 
-NewGuiPart81.Name = "Titlelolol"
+NewGuiPart81.Name = "Title"
 NewGuiPart81.Parent = NewGuiPart74
 NewGuiPart81.BackgroundTransparency = 1
 NewGuiPart81.Size = UDim2.new(1, 0, 1, 0)
@@ -1034,7 +1034,7 @@ NewGuiPart81.Text = "Caution"
 NewGuiPart81.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart81.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart82.Name = "ScriptEditorlolol"
+NewGuiPart82.Name = "ScriptEditor"
 NewGuiPart82.Parent = NewGuiPart1
 NewGuiPart82.Active = true
 NewGuiPart82.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
@@ -1045,11 +1045,11 @@ NewGuiPart82.Size = UDim2.new(0, 516, 0, 20)
 NewGuiPart82.Visible = false
 NewGuiPart82.ZIndex = 5
 
-NewGuiPart163.Name = "OpenScriptlolol"
+NewGuiPart163.Name = "OpenScript"
 NewGuiPart163.Parent = NewGuiPart82
 NewGuiPart163.Archivable = true
 
-NewGuiPart83.Name = "Titlelolol"
+NewGuiPart83.Name = "Title"
 NewGuiPart83.Parent = NewGuiPart82
 NewGuiPart83.BackgroundTransparency = 1
 NewGuiPart83.Size = UDim2.new(1, 0, 1, 0)
@@ -1060,27 +1060,27 @@ NewGuiPart83.Text = "Script Viewer"
 NewGuiPart83.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart83.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart84.Name = "Coverlolol"
+NewGuiPart84.Name = "Cover"
 NewGuiPart84.Parent = NewGuiPart82
 NewGuiPart84.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart84.BorderSizePixel = 0
 NewGuiPart84.Position = UDim2.new(0, 0, 3, 0)
 NewGuiPart84.Size = UDim2.new(0, 516, 0, 416)
 
-NewGuiPart85.Name = "EditorGridlolol"
+NewGuiPart85.Name = "EditorGrid"
 NewGuiPart85.Parent = NewGuiPart82
 NewGuiPart85.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart85.BorderSizePixel = 0
 NewGuiPart85.Position = UDim2.new(0, 0, 3, 0)
 NewGuiPart85.Size = UDim2.new(0, 500, 0, 400)
 
-NewGuiPart86.Name = "TopBarlolol"
+NewGuiPart86.Name = "TopBar"
 NewGuiPart86.Parent = NewGuiPart82
 NewGuiPart86.BackgroundColor3 = Color3.new(0.941177, 0.941177, 0.941177)
 NewGuiPart86.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart86.Size = UDim2.new(1, 0, 3, 0)
 
-NewGuiPart87.Name = "ScriptBarLeftlolol"
+NewGuiPart87.Name = "ScriptBarLeft"
 NewGuiPart87.Parent = NewGuiPart86
 NewGuiPart87.Active = false
 NewGuiPart87.BackgroundColor3 = Color3.new(0.866667, 0.866667, 0.866667)
@@ -1089,14 +1089,14 @@ NewGuiPart87.Position = UDim2.new(1, -32, 0, 40)
 NewGuiPart87.Size = UDim2.new(0, 16, 0, 20)
 NewGuiPart87.AutoButtonColor = false
 
-NewGuiPart88.Name = "Arrow Graphiclolol"
+NewGuiPart88.Name = "Arrow Graphic"
 NewGuiPart88.Parent = NewGuiPart87
 NewGuiPart88.BackgroundTransparency = 1
 NewGuiPart88.BorderSizePixel = 0
 NewGuiPart88.Position = UDim2.new(0.5, -4, 0.5, -4)
 NewGuiPart88.Size = UDim2.new(0, 8, 0, 8)
 
-NewGuiPart89.Name = "Graphiclolol"
+NewGuiPart89.Name = "Graphic"
 NewGuiPart89.Parent = NewGuiPart88
 NewGuiPart89.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart89.BackgroundTransparency = 0.69999998807907
@@ -1104,7 +1104,7 @@ NewGuiPart89.BorderSizePixel = 0
 NewGuiPart89.Position = UDim2.new(0.25, 0, 0.375, 0)
 NewGuiPart89.Size = UDim2.new(0.125, 0, 0.25, 0)
 
-NewGuiPart90.Name = "Graphiclolol"
+NewGuiPart90.Name = "Graphic"
 NewGuiPart90.Parent = NewGuiPart88
 NewGuiPart90.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart90.BackgroundTransparency = 0.69999998807907
@@ -1112,7 +1112,7 @@ NewGuiPart90.BorderSizePixel = 0
 NewGuiPart90.Position = UDim2.new(0.375, 0, 0.25, 0)
 NewGuiPart90.Size = UDim2.new(0.125, 0, 0.5, 0)
 
-NewGuiPart91.Name = "Graphiclolol"
+NewGuiPart91.Name = "Graphic"
 NewGuiPart91.Parent = NewGuiPart88
 NewGuiPart91.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart91.BackgroundTransparency = 0.69999998807907
@@ -1120,7 +1120,7 @@ NewGuiPart91.BorderSizePixel = 0
 NewGuiPart91.Position = UDim2.new(0.5, 0, 0.125, 0)
 NewGuiPart91.Size = UDim2.new(0.125, 0, 0.75, 0)
 
-NewGuiPart92.Name = "Graphiclolol"
+NewGuiPart92.Name = "Graphic"
 NewGuiPart92.Parent = NewGuiPart88
 NewGuiPart92.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart92.BackgroundTransparency = 0.69999998807907
@@ -1128,7 +1128,7 @@ NewGuiPart92.BorderSizePixel = 0
 NewGuiPart92.Position = UDim2.new(0.625, 0, 0, 0)
 NewGuiPart92.Size = UDim2.new(0.125, 0, 1, 0)
 
-NewGuiPart93.Name = "ScriptBarRightlolol"
+NewGuiPart93.Name = "ScriptBarRight"
 NewGuiPart93.Parent = NewGuiPart86
 NewGuiPart93.Active = false
 NewGuiPart93.BackgroundColor3 = Color3.new(0.866667, 0.866667, 0.866667)
@@ -1137,14 +1137,14 @@ NewGuiPart93.Position = UDim2.new(1, -16, 0, 40)
 NewGuiPart93.Size = UDim2.new(0, 16, 0, 20)
 NewGuiPart93.AutoButtonColor = false
 
-NewGuiPart94.Name = "Arrow Graphiclolol"
+NewGuiPart94.Name = "Arrow Graphic"
 NewGuiPart94.Parent = NewGuiPart93
 NewGuiPart94.BackgroundTransparency = 1
 NewGuiPart94.BorderSizePixel = 0
 NewGuiPart94.Position = UDim2.new(0.5, -4, 0.5, -4)
 NewGuiPart94.Size = UDim2.new(0, 8, 0, 8)
 
-NewGuiPart95.Name = "Graphiclolol"
+NewGuiPart95.Name = "Graphic"
 NewGuiPart95.Parent = NewGuiPart94
 NewGuiPart95.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart95.BackgroundTransparency = 0.69999998807907
@@ -1152,7 +1152,7 @@ NewGuiPart95.BorderSizePixel = 0
 NewGuiPart95.Position = UDim2.new(0.625, 0, 0.375, 0)
 NewGuiPart95.Size = UDim2.new(0.125, 0, 0.25, 0)
 
-NewGuiPart96.Name = "Graphiclolol"
+NewGuiPart96.Name = "Graphic"
 NewGuiPart96.Parent = NewGuiPart94
 NewGuiPart96.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart96.BackgroundTransparency = 0.69999998807907
@@ -1160,7 +1160,7 @@ NewGuiPart96.BorderSizePixel = 0
 NewGuiPart96.Position = UDim2.new(0.5, 0, 0.25, 0)
 NewGuiPart96.Size = UDim2.new(0.125, 0, 0.5, 0)
 
-NewGuiPart97.Name = "Graphiclolol"
+NewGuiPart97.Name = "Graphic"
 NewGuiPart97.Parent = NewGuiPart94
 NewGuiPart97.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart97.BackgroundTransparency = 0.69999998807907
@@ -1168,7 +1168,7 @@ NewGuiPart97.BorderSizePixel = 0
 NewGuiPart97.Position = UDim2.new(0.375, 0, 0.125, 0)
 NewGuiPart97.Size = UDim2.new(0.125, 0, 0.75, 0)
 
-NewGuiPart98.Name = "Graphiclolol"
+NewGuiPart98.Name = "Graphic"
 NewGuiPart98.Parent = NewGuiPart94
 NewGuiPart98.BackgroundColor3 = Color3.new(0.584314, 0.584314, 0.584314)
 NewGuiPart98.BackgroundTransparency = 0.69999998807907
@@ -1176,7 +1176,7 @@ NewGuiPart98.BorderSizePixel = 0
 NewGuiPart98.Position = UDim2.new(0.25, 0, 0, 0)
 NewGuiPart98.Size = UDim2.new(0.125, 0, 1, 0)
 
-NewGuiPart99.Name = "Clipboardlolol"
+NewGuiPart99.Name = "Clipboard"
 NewGuiPart99.Parent = NewGuiPart86
 NewGuiPart99.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart99.BackgroundTransparency = 0.5
@@ -1187,7 +1187,7 @@ NewGuiPart99.Font = Enum.Font.SourceSans
 NewGuiPart99.FontSize = Enum.FontSize.Size14
 NewGuiPart99.Text = "To Clipboard"
 
-NewGuiPart100.Name = "ScriptBarlolol"
+NewGuiPart100.Name = "ScriptBar"
 NewGuiPart100.Parent = NewGuiPart86
 NewGuiPart100.BackgroundColor3 = Color3.new(0.823529, 0.823529, 0.823529)
 NewGuiPart100.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -1195,14 +1195,14 @@ NewGuiPart100.ClipsDescendants = true
 NewGuiPart100.Position = UDim2.new(0, 0, 0, 40)
 NewGuiPart100.Size = UDim2.new(1, -32, 0, 20)
 
-NewGuiPart101.Name = "Entrylolol"
+NewGuiPart101.Name = "Entry"
 NewGuiPart101.Parent = NewGuiPart86
 NewGuiPart101.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart101.BackgroundTransparency = 1
 NewGuiPart101.Size = UDim2.new(0, 100, 1, 0)
 NewGuiPart101.Visible = false
 
-NewGuiPart102.Name = "Buttonlolol"
+NewGuiPart102.Name = "Button"
 NewGuiPart102.Parent = NewGuiPart101
 NewGuiPart102.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart102.BackgroundTransparency = 0.60000002384186
@@ -1215,7 +1215,7 @@ NewGuiPart102.FontSize = Enum.FontSize.Size12
 NewGuiPart102.Text = ""
 NewGuiPart102.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart103.Name = "Closelolol"
+NewGuiPart103.Name = "Close"
 NewGuiPart103.Parent = NewGuiPart101
 NewGuiPart103.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart103.BackgroundTransparency = 1
@@ -1227,7 +1227,7 @@ NewGuiPart103.Font = Enum.Font.SourceSans
 NewGuiPart103.FontSize = Enum.FontSize.Size14
 NewGuiPart103.Text = "X"
 
-NewGuiPart104.Name = "Closelolol"
+NewGuiPart104.Name = "Close"
 NewGuiPart104.Parent = NewGuiPart82
 NewGuiPart104.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart104.BackgroundTransparency = 1
@@ -1239,7 +1239,7 @@ NewGuiPart104.Font = Enum.Font.SourceSans
 NewGuiPart104.FontSize = Enum.FontSize.Size14
 NewGuiPart104.Text = "X"
 
-NewGuiPart105.Name = "IntroFramelolol"
+NewGuiPart105.Name = "IntroFrame"
 NewGuiPart105.Parent = NewGuiPart1
 NewGuiPart105.BackgroundColor3 = Color3.new(0.960784, 0.960784, 0.960784)
 NewGuiPart105.BorderSizePixel = 0
@@ -1247,7 +1247,7 @@ NewGuiPart105.Position = UDim2.new(1, 30, 0, 0)
 NewGuiPart105.Size = UDim2.new(0, 300, 1, 0)
 NewGuiPart105.ZIndex = 2
 
-NewGuiPart106.Name = "Mainlolol"
+NewGuiPart106.Name = "Main"
 NewGuiPart106.Parent = NewGuiPart105
 NewGuiPart106.BackgroundColor3 = Color3.new(0.960784, 0.960784, 0.960784)
 NewGuiPart106.BorderSizePixel = 0
@@ -1255,7 +1255,7 @@ NewGuiPart106.Position = UDim2.new(0, -30, 0, 0)
 NewGuiPart106.Size = UDim2.new(0, 30, 0, 90)
 NewGuiPart106.ZIndex = 2
 
-NewGuiPart107.Name = "Titlelolol"
+NewGuiPart107.Name = "Title"
 NewGuiPart107.Parent = NewGuiPart105
 NewGuiPart107.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart107.BackgroundTransparency = 1
@@ -1267,7 +1267,7 @@ NewGuiPart107.FontSize = Enum.FontSize.Size60
 NewGuiPart107.Text = "DEX"
 NewGuiPart107.TextWrapped = true
 
-NewGuiPart108.Name = "Versionlolol"
+NewGuiPart108.Name = "Version"
 NewGuiPart108.Parent = NewGuiPart105
 NewGuiPart108.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart108.BackgroundTransparency = 1
@@ -1279,7 +1279,7 @@ NewGuiPart108.FontSize = Enum.FontSize.Size28
 NewGuiPart108.Text = "V2.0.0"
 NewGuiPart108.TextWrapped = true
 
-NewGuiPart109.Name = "Creatorlolol"
+NewGuiPart109.Name = "Creator"
 NewGuiPart109.Parent = NewGuiPart105
 NewGuiPart109.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart109.BackgroundTransparency = 1
@@ -1291,7 +1291,7 @@ NewGuiPart109.FontSize = Enum.FontSize.Size28
 NewGuiPart109.Text = "Raspberry Pi , Script Made By Advancedev"
 NewGuiPart109.TextWrapped = true
 
-NewGuiPart110.Name = "Slantlolol"
+NewGuiPart110.Name = "Slant"
 NewGuiPart110.Parent = NewGuiPart105
 NewGuiPart110.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart110.BackgroundTransparency = 1
@@ -1302,7 +1302,7 @@ NewGuiPart110.ZIndex = 2
 NewGuiPart110.Image = "rbxassetid://474172996"
 NewGuiPart110.ImageColor3 = Color3.new(0.960784, 0.960784, 0.960784)
 
-NewGuiPart111.Name = "SaveMapWindowlolol"
+NewGuiPart111.Name = "SaveMapWindow"
 NewGuiPart111.Parent = NewGuiPart1
 NewGuiPart111.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart111.BackgroundTransparency = 0.10000000149012
@@ -1310,7 +1310,7 @@ NewGuiPart111.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart111.Position = UDim2.new(1, 0, 0, 0)
 NewGuiPart111.Size = UDim2.new(0, 300, 1, 0)
 
-NewGuiPart112.Name = "Headerlolol"
+NewGuiPart112.Name = "Header"
 NewGuiPart112.Parent = NewGuiPart111
 NewGuiPart112.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart112.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -1326,21 +1326,21 @@ NewGuiPart113.Text = "Map Downloader"
 NewGuiPart113.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart113.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart114.Name = "MapSettingslolol"
+NewGuiPart114.Name = "MapSettings"
 NewGuiPart114.Parent = NewGuiPart111
 NewGuiPart114.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart114.BackgroundTransparency = 1
 NewGuiPart114.Position = UDim2.new(0, 0, 0, 200)
 NewGuiPart114.Size = UDim2.new(1, 0, 0, 240)
 
-NewGuiPart115.Name = "Terrainlolol"
+NewGuiPart115.Name = "Terrain"
 NewGuiPart115.Parent = NewGuiPart114
 NewGuiPart115.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart115.BackgroundTransparency = 1
 NewGuiPart115.Position = UDim2.new(0, 0, 0, 60)
 NewGuiPart115.Size = UDim2.new(1, 0, 0, 60)
 
-NewGuiPart116.Name = "SNamelolol"
+NewGuiPart116.Name = "SName"
 NewGuiPart116.Parent = NewGuiPart115
 NewGuiPart116.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart116.BackgroundTransparency = 1
@@ -1351,7 +1351,7 @@ NewGuiPart116.FontSize = Enum.FontSize.Size18
 NewGuiPart116.Text = "Save Terrain"
 NewGuiPart116.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart117.Name = "Statuslolol"
+NewGuiPart117.Name = "Status"
 NewGuiPart117.Parent = NewGuiPart115
 NewGuiPart117.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart117.BackgroundTransparency = 1
@@ -1362,7 +1362,7 @@ NewGuiPart117.FontSize = Enum.FontSize.Size18
 NewGuiPart117.Text = "Off"
 NewGuiPart117.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart118.Name = "Changelolol"
+NewGuiPart118.Name = "Change"
 NewGuiPart118.Parent = NewGuiPart115
 NewGuiPart118.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart118.BorderSizePixel = 0
@@ -1372,7 +1372,7 @@ NewGuiPart118.Font = Enum.Font.SourceSans
 NewGuiPart118.FontSize = Enum.FontSize.Size14
 NewGuiPart118.Text = ""
 
-NewGuiPart119.Name = "OnBarlolol"
+NewGuiPart119.Name = "OnBar"
 NewGuiPart119.Parent = NewGuiPart118
 NewGuiPart119.BackgroundColor3 = Color3.new(0, 0.576471, 0.862745)
 NewGuiPart119.BorderSizePixel = 0
@@ -1381,7 +1381,7 @@ NewGuiPart119.Font = Enum.Font.SourceSans
 NewGuiPart119.FontSize = Enum.FontSize.Size14
 NewGuiPart119.Text = ""
 
-NewGuiPart120.Name = "Barlolol"
+NewGuiPart120.Name = "Bar"
 NewGuiPart120.Parent = NewGuiPart118
 NewGuiPart120.BackgroundColor3 = Color3.new(0, 0, 0)
 NewGuiPart120.BorderSizePixel = 0
@@ -1392,14 +1392,14 @@ NewGuiPart120.Font = Enum.Font.SourceSans
 NewGuiPart120.FontSize = Enum.FontSize.Size14
 NewGuiPart120.Text = ""
 
-NewGuiPart121.Name = "Lightinglolol"
+NewGuiPart121.Name = "Lighting"
 NewGuiPart121.Parent = NewGuiPart114
 NewGuiPart121.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart121.BackgroundTransparency = 1
 NewGuiPart121.Position = UDim2.new(0, 0, 0, 120)
 NewGuiPart121.Size = UDim2.new(1, 0, 0, 60)
 
-NewGuiPart122.Name = "SNamelolol"
+NewGuiPart122.Name = "SName"
 NewGuiPart122.Parent = NewGuiPart121
 NewGuiPart122.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart122.BackgroundTransparency = 1
@@ -1410,7 +1410,7 @@ NewGuiPart122.FontSize = Enum.FontSize.Size18
 NewGuiPart122.Text = "Lighting Properties"
 NewGuiPart122.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart123.Name = "Statuslolol"
+NewGuiPart123.Name = "Status"
 NewGuiPart123.Parent = NewGuiPart121
 NewGuiPart123.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart123.BackgroundTransparency = 1
@@ -1421,7 +1421,7 @@ NewGuiPart123.FontSize = Enum.FontSize.Size18
 NewGuiPart123.Text = "Off"
 NewGuiPart123.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart124.Name = "Changelolol"
+NewGuiPart124.Name = "Change"
 NewGuiPart124.Parent = NewGuiPart121
 NewGuiPart124.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart124.BorderSizePixel = 0
@@ -1431,7 +1431,7 @@ NewGuiPart124.Font = Enum.Font.SourceSans
 NewGuiPart124.FontSize = Enum.FontSize.Size14
 NewGuiPart124.Text = ""
 
-NewGuiPart125.Name = "OnBarlolol"
+NewGuiPart125.Name = "OnBar"
 NewGuiPart125.Parent = NewGuiPart124
 NewGuiPart125.BackgroundColor3 = Color3.new(0, 0.576471, 0.862745)
 NewGuiPart125.BorderSizePixel = 0
@@ -1440,7 +1440,7 @@ NewGuiPart125.Font = Enum.Font.SourceSans
 NewGuiPart125.FontSize = Enum.FontSize.Size14
 NewGuiPart125.Text = ""
 
-NewGuiPart126.Name = "Barlolol"
+NewGuiPart126.Name = "Bar"
 NewGuiPart126.Parent = NewGuiPart124
 NewGuiPart126.BackgroundColor3 = Color3.new(0, 0, 0)
 NewGuiPart126.BorderSizePixel = 0
@@ -1451,14 +1451,14 @@ NewGuiPart126.Font = Enum.Font.SourceSans
 NewGuiPart126.FontSize = Enum.FontSize.Size14
 NewGuiPart126.Text = ""
 
-NewGuiPart127.Name = "CameraInstanceslolol"
+NewGuiPart127.Name = "CameraInstances"
 NewGuiPart127.Parent = NewGuiPart114
 NewGuiPart127.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart127.BackgroundTransparency = 1
 NewGuiPart127.Position = UDim2.new(0, 0, 0, 180)
 NewGuiPart127.Size = UDim2.new(1, 0, 0, 60)
 
-NewGuiPart128.Name = "SNamelolol"
+NewGuiPart128.Name = "SName"
 NewGuiPart128.Parent = NewGuiPart127
 NewGuiPart128.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart128.BackgroundTransparency = 1
@@ -1469,7 +1469,7 @@ NewGuiPart128.FontSize = Enum.FontSize.Size18
 NewGuiPart128.Text = "Camera Instances"
 NewGuiPart128.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart129.Name = "Statuslolol"
+NewGuiPart129.Name = "Status"
 NewGuiPart129.Parent = NewGuiPart127
 NewGuiPart129.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart129.BackgroundTransparency = 1
@@ -1480,7 +1480,7 @@ NewGuiPart129.FontSize = Enum.FontSize.Size18
 NewGuiPart129.Text = "Off"
 NewGuiPart129.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart130.Name = "Changelolol"
+NewGuiPart130.Name = "Change"
 NewGuiPart130.Parent = NewGuiPart127
 NewGuiPart130.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart130.BorderSizePixel = 0
@@ -1490,7 +1490,7 @@ NewGuiPart130.Font = Enum.Font.SourceSans
 NewGuiPart130.FontSize = Enum.FontSize.Size14
 NewGuiPart130.Text = ""
 
-NewGuiPart131.Name = "OnBarlolol"
+NewGuiPart131.Name = "OnBar"
 NewGuiPart131.Parent = NewGuiPart130
 NewGuiPart131.BackgroundColor3 = Color3.new(0, 0.576471, 0.862745)
 NewGuiPart131.BorderSizePixel = 0
@@ -1499,7 +1499,7 @@ NewGuiPart131.Font = Enum.Font.SourceSans
 NewGuiPart131.FontSize = Enum.FontSize.Size14
 NewGuiPart131.Text = ""
 
-NewGuiPart132.Name = "Barlolol"
+NewGuiPart132.Name = "Bar"
 NewGuiPart132.Parent = NewGuiPart130
 NewGuiPart132.BackgroundColor3 = Color3.new(0, 0, 0)
 NewGuiPart132.BorderSizePixel = 0
@@ -1510,13 +1510,13 @@ NewGuiPart132.Font = Enum.Font.SourceSans
 NewGuiPart132.FontSize = Enum.FontSize.Size14
 NewGuiPart132.Text = ""
 
-NewGuiPart133.Name = "Scriptslolol"
+NewGuiPart133.Name = "Scripts"
 NewGuiPart133.Parent = NewGuiPart114
 NewGuiPart133.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart133.BackgroundTransparency = 1
 NewGuiPart133.Size = UDim2.new(1, 0, 0, 60)
 
-NewGuiPart134.Name = "SNamelolol"
+NewGuiPart134.Name = "SName"
 NewGuiPart134.Parent = NewGuiPart133
 NewGuiPart134.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart134.BackgroundTransparency = 1
@@ -1527,7 +1527,7 @@ NewGuiPart134.FontSize = Enum.FontSize.Size18
 NewGuiPart134.Text = "Save Scripts"
 NewGuiPart134.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart135.Name = "Statuslolol"
+NewGuiPart135.Name = "Status"
 NewGuiPart135.Parent = NewGuiPart133
 NewGuiPart135.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart135.BackgroundTransparency = 1
@@ -1538,7 +1538,7 @@ NewGuiPart135.FontSize = Enum.FontSize.Size18
 NewGuiPart135.Text = "Off"
 NewGuiPart135.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart136.Name = "Changelolol"
+NewGuiPart136.Name = "Change"
 NewGuiPart136.Parent = NewGuiPart133
 NewGuiPart136.BackgroundColor3 = Color3.new(0.862745, 0.862745, 0.862745)
 NewGuiPart136.BorderSizePixel = 0
@@ -1548,7 +1548,7 @@ NewGuiPart136.Font = Enum.Font.SourceSans
 NewGuiPart136.FontSize = Enum.FontSize.Size14
 NewGuiPart136.Text = ""
 
-NewGuiPart137.Name = "OnBarlolol"
+NewGuiPart137.Name = "OnBar"
 NewGuiPart137.Parent = NewGuiPart136
 NewGuiPart137.BackgroundColor3 = Color3.new(0, 0.576471, 0.862745)
 NewGuiPart137.BorderSizePixel = 0
@@ -1557,7 +1557,7 @@ NewGuiPart137.Font = Enum.Font.SourceSans
 NewGuiPart137.FontSize = Enum.FontSize.Size14
 NewGuiPart137.Text = ""
 
-NewGuiPart138.Name = "Barlolol"
+NewGuiPart138.Name = "Bar"
 NewGuiPart138.Parent = NewGuiPart136
 NewGuiPart138.BackgroundColor3 = Color3.new(0, 0, 0)
 NewGuiPart138.BorderSizePixel = 0
@@ -1568,7 +1568,7 @@ NewGuiPart138.Font = Enum.Font.SourceSans
 NewGuiPart138.FontSize = Enum.FontSize.Size14
 NewGuiPart138.Text = ""
 
-NewGuiPart139.Name = "ToSavelolol"
+NewGuiPart139.Name = "ToSave"
 NewGuiPart139.Parent = NewGuiPart111
 NewGuiPart139.BackgroundTransparency = 1
 NewGuiPart139.Position = UDim2.new(0, 0, 0, 17)
@@ -1578,14 +1578,14 @@ NewGuiPart139.FontSize = Enum.FontSize.Size18
 NewGuiPart139.Text = "To Save"
 NewGuiPart139.TextColor3 = Color3.new(0, 0, 0)
 
-NewGuiPart140.Name = "CopyListlolol"
+NewGuiPart140.Name = "CopyList"
 NewGuiPart140.Parent = NewGuiPart111
 NewGuiPart140.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart140.BackgroundTransparency = 0.80000001192093
 NewGuiPart140.Position = UDim2.new(0, 0, 0, 37)
 NewGuiPart140.Size = UDim2.new(1, 0, 0, 163)
 
-NewGuiPart141.Name = "Bottomlolol"
+NewGuiPart141.Name = "Bottom"
 NewGuiPart141.Parent = NewGuiPart111
 NewGuiPart141.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart141.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -1604,7 +1604,7 @@ NewGuiPart142.TextWrapped = true
 NewGuiPart142.TextXAlignment = Enum.TextXAlignment.Left
 NewGuiPart142.TextYAlignment = Enum.TextYAlignment.Top
 
-NewGuiPart143.Name = "Savelolol"
+NewGuiPart143.Name = "Save"
 NewGuiPart143.Parent = NewGuiPart111
 NewGuiPart143.BackgroundColor3 = Color3.new(0.941177, 0.941177, 0.941177)
 NewGuiPart143.BackgroundTransparency = 0.80000001192093
@@ -1615,7 +1615,7 @@ NewGuiPart143.Font = Enum.Font.SourceSans
 NewGuiPart143.FontSize = Enum.FontSize.Size18
 NewGuiPart143.Text = "Save"
 
-NewGuiPart144.Name = "FileNamelolol"
+NewGuiPart144.Name = "FileName"
 NewGuiPart144.Parent = NewGuiPart111
 NewGuiPart144.BackgroundColor3 = Color3.new(0.941177, 0.941177, 0.941177)
 NewGuiPart144.BackgroundTransparency = 0.60000002384186
@@ -1626,14 +1626,14 @@ NewGuiPart144.FontSize = Enum.FontSize.Size18
 NewGuiPart144.Text = "PlaceName"
 NewGuiPart144.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart145.Name = "Entrylolol"
+NewGuiPart145.Name = "Entry"
 NewGuiPart145.Parent = NewGuiPart111
 NewGuiPart145.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart145.BackgroundTransparency = 1
 NewGuiPart145.Size = UDim2.new(1, 0, 0, 22)
 NewGuiPart145.Visible = false
 
-NewGuiPart146.Name = "Changelolol"
+NewGuiPart146.Name = "Change"
 NewGuiPart146.Parent = NewGuiPart145
 NewGuiPart146.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart146.BackgroundTransparency = 0.60000002384186
@@ -1645,7 +1645,7 @@ NewGuiPart146.FontSize = Enum.FontSize.Size18
 NewGuiPart146.Text = ""
 NewGuiPart146.TextColor3 = Color3.new(1, 1, 1)
 
-NewGuiPart147.Name = "enabledlolol"
+NewGuiPart147.Name = "enabled"
 NewGuiPart147.Parent = NewGuiPart146
 NewGuiPart147.BackgroundColor3 = Color3.new(0.380392, 0.380392, 0.380392)
 NewGuiPart147.BackgroundTransparency = 0.40000000596046
@@ -1656,7 +1656,7 @@ NewGuiPart147.Font = Enum.Font.SourceSans
 NewGuiPart147.FontSize = Enum.FontSize.Size14
 NewGuiPart147.Text = ""
 
-NewGuiPart148.Name = "Infololol"
+NewGuiPart148.Name = "Info"
 NewGuiPart148.Parent = NewGuiPart145
 NewGuiPart148.BackgroundTransparency = 1
 NewGuiPart148.Position = UDim2.new(0, 40, 0, 0)
@@ -1667,7 +1667,7 @@ NewGuiPart148.Text = "Workspace"
 NewGuiPart148.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart148.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart149.Name = "RemoteDebugWindowlolol"
+NewGuiPart149.Name = "RemoteDebugWindow"
 NewGuiPart149.Parent = NewGuiPart1
 NewGuiPart149.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart149.BackgroundTransparency = 0.10000000149012
@@ -1675,11 +1675,11 @@ NewGuiPart149.BorderColor3 = Color3.new(0.74902, 0.74902, 0.74902)
 NewGuiPart149.Position = UDim2.new(1, 0, 0, 0)
 NewGuiPart149.Size = UDim2.new(0, 300, 1, 0)
 
-NewGuiPart161.Name = "GetSettinglolol"
+NewGuiPart161.Name = "GetSetting"
 NewGuiPart161.Parent = NewGuiPart149
 NewGuiPart161.Archivable = true
 
-NewGuiPart150.Name = "Headerlolol"
+NewGuiPart150.Name = "Header"
 NewGuiPart150.Parent = NewGuiPart149
 NewGuiPart150.BackgroundColor3 = Color3.new(0.913726, 0.913726, 0.913726)
 NewGuiPart150.BorderColor3 = Color3.new(0.584314, 0.584314, 0.584314)
@@ -1695,7 +1695,7 @@ NewGuiPart151.Text = "Remote Debugger"
 NewGuiPart151.TextColor3 = Color3.new(0, 0, 0)
 NewGuiPart151.TextXAlignment = Enum.TextXAlignment.Left
 
-NewGuiPart152.Name = "Desclolol"
+NewGuiPart152.Name = "Desc"
 NewGuiPart152.Parent = NewGuiPart149
 NewGuiPart152.BackgroundColor3 = Color3.new(1, 1, 1)
 NewGuiPart152.BackgroundTransparency = 1
